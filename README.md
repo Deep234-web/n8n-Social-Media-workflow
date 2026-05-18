@@ -6,6 +6,12 @@ No more staring at a blank screen wondering what to post. Just add your content 
 
 ---
 
+## Workflow
+
+![n8n Social Media Workflow](workflow.png)
+
+---
+
 ## What It Does
 
 You maintain a list of content ideas or topics in Google Tasks. When you run this workflow, it:
