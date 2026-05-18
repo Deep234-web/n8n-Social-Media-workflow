@@ -1,6 +1,6 @@
 # n8n Social Media Workflow
 
-Automate your LinkedIn content creation from start to finish. This workflow pulls your tasks from Google Tasks, turns them into fully written LinkedIn posts using an AI Agent powered by OpenAI, and saves everything — post text, hashtags, and platform — directly into a Google Sheet for easy tracking and scheduling.
+Automate your LinkedIn content creation from start to finish. This workflow pulls your tasks from Google Tasks, turns them into fully written LinkedIn posts using an AI Agent powered by OpenAI, and saves everything post text, hashtags, and platform directly into a Google Sheet for easy tracking and scheduling.
 
 No more staring at a blank screen wondering what to post. Just add your content ideas as tasks in Google Tasks, run the workflow, and get ready-to-publish LinkedIn posts delivered to your spreadsheet.
 
@@ -18,7 +18,7 @@ You maintain a list of content ideas or topics in Google Tasks. When you run thi
 
 1. Fetches all your tasks from Google Tasks.
 2. Takes each task and generates a relevant content topic or angle from it.
-3. Passes that topic to an AI Agent (powered by OpenAI) which writes a complete LinkedIn post — with a hook, body, and call to action.
+3. Passes that topic to an AI Agent (powered by OpenAI) which writes a complete LinkedIn post with a hook, body, and call to action.
 4. Saves the output into a Google Sheet with three columns: the post text, hashtags, and the target platform (LinkedIn).
 
 The result is a Google Sheet filled with ready-to-publish LinkedIn posts that you can review, tweak, and schedule at your convenience.
